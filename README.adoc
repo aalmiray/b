@@ -19,3 +19,4 @@ There are two modes for packaging this application: classpath & modulepath.
  2. `jreleaser assemble --config-file jreleaser-modules.yml`
 
 In both cases the assembled archive is placed at `out/jreleaser/assemble/helloworld/java-archive`.
+
